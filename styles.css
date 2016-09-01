@@ -234,10 +234,11 @@ hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid white;
     margin-left: 40px;
     margin-right: 40px;
     margin-bottom: 40px;
+    margin-top: 20px;
     padding: 0;
 }
 
@@ -246,6 +247,33 @@ hr {
 text-decoration: none; 
 background: url(https://cloud.githubusercontent.com/assets/21408785/18157953/d82665b8-6fe5-11e6-9b3e-350e2fbbe541.png) repeat-x 100% 100%;
 white-space: nowrap;
+}
+
+.learn-more {
+	text-align: center;
+	font-family: "Avenir", "Lato", sans-serif;, sans serif;
+}
+
+h3 {
+	font-family: "Avenir", "Lato", sans-serif;, sans serif;
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 24px;
+	color: #4D2D80;
+	margin-top: 24px;
+	margin-bottom: 18px;
+}
+
+.learn-more a {
+	font-family: "Avenir", "Lato", sans-serif;, sans serif;
+	color: blue;
+	text-decoration: none;
+	margin-right: 30px;
+}
+
+.learn-more a:hover {
+	text-decoration: underline;
+	cursor: pointer;
 }
 
 
