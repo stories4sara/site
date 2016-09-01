@@ -63,7 +63,7 @@ html {
 
 .hero {
 	background: linear-gradient(-225deg, rgba(255,255,255,0.00) 0%, rgba(237,232,255,0.81) 100%);
-	background-image: url(img/hero.png);
+	background-image: url(https://cloud.githubusercontent.com/assets/21408785/18157954/d828184a-6fe5-11e6-868f-e860feb7e547.png);
 	background-repeat: no-repeat;
 	max-height: 553px;
 	width: 100%;
@@ -217,14 +217,14 @@ a:hover {
 }
 
 .book-icon {
-	background-image: url(img/book.svg);
+	background-image: url(https://cloud.githubusercontent.com/assets/21408785/18158243/a963e582-6fe7-11e6-9d76-b209a50bada1.png);
 	background-repeat: no-repeat;
 	width: 119px;
 	height: 119px;
 }
 
 .awareness-icon {
-	background-image: url(img/awareness.svg);
+	background-image: url(https://cloud.githubusercontent.com/assets/21408785/18158242/a9627846-6fe7-11e6-9071-93085f28f7ed.png);
 	background-repeat: no-repeat;
 	width: 119px;
 	height: 119px;
@@ -244,7 +244,7 @@ hr {
 
 #pink-link {
 text-decoration: none; 
-background: url(img/underline.png) repeat-x 100% 100%;
+background: url(https://cloud.githubusercontent.com/assets/21408785/18157953/d82665b8-6fe5-11e6-9b3e-350e2fbbe541.png) repeat-x 100% 100%;
 white-space: nowrap;
 }
 
