@@ -203,6 +203,12 @@ a:hover {
 	flex-grow: 1;
 	text-align: center;
 	margin: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.donate p {
+	font-size: 16px;
 }
 
 .awareness {
@@ -213,7 +219,13 @@ a:hover {
 	align-items: center;
 	flex-grow: 1;
 	text-align: center;
-	margin:20px;
+	margin: 20px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+.awareness p {
+	font-size: 16px;
 }
 
 .book-icon {
@@ -244,9 +256,10 @@ hr {
 
 
 #pink-link {
-text-decoration: none; 
-background: url(https://cloud.githubusercontent.com/assets/21408785/18157953/d82665b8-6fe5-11e6-9b3e-350e2fbbe541.png) repeat-x 100% 100%;
-white-space: nowrap;
+	color: #4D2D80;
+	text-decoration: none; 
+	background: url(https://cloud.githubusercontent.com/assets/21408785/18157953/d82665b8-6fe5-11e6-9b3e-350e2fbbe541.png) repeat-x 100% 100%;
+	white-space: nowrap;
 }
 
 .learn-more {
@@ -266,9 +279,11 @@ h3 {
 
 .learn-more a {
 	font-family: "Avenir", "Lato", sans-serif;, sans serif;
-	color: blue;
+	color: #4D2D80;
 	text-decoration: none;
 	margin-right: 30px;
+	background: url(https://cloud.githubusercontent.com/assets/21408785/18157953/d82665b8-6fe5-11e6-9b3e-350e2fbbe541.png) repeat-x 100% 100%;
+	white-space: nowrap;
 }
 
 .learn-more a:hover {
